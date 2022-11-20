@@ -1,6 +1,6 @@
 {
   "name": "changegroup",
-  "homepage":"http://changegroup.pl",
+  "homepage":"https://changegroup.pl",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
