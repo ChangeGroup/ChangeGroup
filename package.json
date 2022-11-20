@@ -1,6 +1,6 @@
 {
   "name": "changegroup",
-  "homepage":"http://ChangeGroup.github.io/ChangeGroup",
+  "homepage":"http://changegroup.pl",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
