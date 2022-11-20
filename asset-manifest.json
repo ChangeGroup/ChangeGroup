@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ChangeGroup/static/css/main.7379edac.css",
+    "main.js": "/ChangeGroup/static/js/main.0285cb24.js",
+    "static/js/787.0f5c8ef1.chunk.js": "/ChangeGroup/static/js/787.0f5c8ef1.chunk.js",
+    "static/media/kisspng-european-regional-development-fund-european-union-eu-5ae832777717e0.png": "/ChangeGroup/static/media/kisspng-european-regional-development-fund-european-union-eu-5ae832777717e0.7794268515251667114878.5279dc78ee694ff065e7.png",
+    "static/media/GROUP.png": "/ChangeGroup/static/media/GROUP.7f513e7d3576415250dd.png",
+    "static/media/GROUP (1).png": "/ChangeGroup/static/media/GROUP (1).c5b786fa794b770d9175.png",
+    "static/media/undraw_maker_launch_re_rq81.svg": "/ChangeGroup/static/media/undraw_maker_launch_re_rq81.65e32299eedebead65efbd59a5134b45.svg",
+    "static/media/undraw_progressive_app_m-9-ms (1).svg": "/ChangeGroup/static/media/undraw_progressive_app_m-9-ms (1).05633658ded99a733abadf132b426e1e.svg",
+    "static/media/product-management.svg": "/ChangeGroup/static/media/product-management.3d5251b68410464a65cd395838c51bb2.svg",
+    "static/media/mobile-development-svg": "/ChangeGroup/static/media/mobile-development-5e7677b053308d48b9f2d25981125d7f.c42738d0cce42aa5a20b97a8cecfa9b1.svg",
+    "index.html": "/ChangeGroup/index.html",
+    "static/media/productdesignimg.svg": "/ChangeGroup/static/media/productdesignimg.1c0279f922691ace4119e8ba9f493b69.svg",
+    "static/media/mvpimg.svg": "/ChangeGroup/static/media/mvpimg.0561c2ad47089773dc702a1c6f028cc3.svg",
+    "static/media/manageditservice.svg": "/ChangeGroup/static/media/manageditservice.29efa92ced5760e2403559a096ba05ae.svg",
+    "static/media/web-development-img.svg": "/ChangeGroup/static/media/web-development-img.919d416d1b0554225be21db203ccaa2d.svg",
+    "main.7379edac.css.map": "/ChangeGroup/static/css/main.7379edac.css.map",
+    "main.0285cb24.js.map": "/ChangeGroup/static/js/main.0285cb24.js.map",
+    "787.0f5c8ef1.chunk.js.map": "/ChangeGroup/static/js/787.0f5c8ef1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7379edac.css",
+    "static/js/main.0285cb24.js"
+  ]
+}
