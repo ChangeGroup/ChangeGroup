@@ -1,0 +1,25 @@
+.navbar {
+    background-color: white;
+}
+
+.contactlist {
+    border-color: #E5D9B6 !important;
+
+}
+
+.contactlist:hover {
+    background-color:#E5D9B6;
+}
+
+.nav-link:hover {
+    cursor: default;
+    color: #E5D9B6 !important;
+}
+
+.logo {
+    cursor: pointer;
+    width: auto;
+    height: 60px;
+    background-color: #27284d;
+}
+
