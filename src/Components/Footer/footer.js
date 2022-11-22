@@ -1,7 +1,7 @@
 import React from "react";
 import './footer.css';
 import { MDBFooter, MDBContainer, MDBRow, MDBCol, MDBIcon } from 'mdb-react-ui-kit';
-import Eupol from '../../Images/eupolska.jpg';
+import Eupol from '../../Images/eupolska.png';
 import Eunion from '../../Images/kisspng-european-regional-development-fund-european-union-eu-5ae832777717e0.7794268515251667114878.png';
 import Logo from '../../Images/GROUP (1).png';
 
@@ -16,7 +16,7 @@ const Footer = () => {
 
             <div>
             <span className='me-4 text-white'>
-            <i class="fa fa-linkedin"></i>
+            <a href="https://www.linkedin.com/company/changegrouppl" style={{textDecoration:'none', color:'#eee'}}><i class="fa fa-linkedin"></i></a>
             </span>
 
             </div>
@@ -107,13 +107,16 @@ const Footer = () => {
                     <MDBIcon icon="envelope" className="me-3" />
                     contact@changegroup.pl
                 </p>
-                
+                <p>
+                    <MDBIcon icon="phone" className="me-3" />
+                    + 48 739 534 738
+                </p>
                 </MDBCol>
             </MDBRow>
             </MDBContainer>
         </section>
 
-        <div className='text-center text-muted p-4 bg-white'>
+        <div className='text-center text-muted p-4 bg-light'>
         
             © 2022 Copyright: &nbsp; 
             <span className='text-reset fw-bold text-center'>

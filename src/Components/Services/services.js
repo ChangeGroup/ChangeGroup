@@ -90,7 +90,7 @@ const Services = () => {
                     </div>
                 </div>
                 </div>
-                <div class="col-lg-4 mb-2 mt-5">
+                <div class="col-lg-4 mb-2 mt-5 webdevpart">
                 <div class="card rounded border-0 shadow">
                     <div class="card-body p-2">
                         <img src={Webdevimg} alt="" class="img-fluid mx-auto d-block mb-1 pt-2 pb-2 text-left" style={{width: 'auto', height: '100px'}} />
@@ -117,7 +117,7 @@ const Services = () => {
                 </div>
             </div>
 
-            <div class="row pt-2 mt-5">
+            <div class="row pt-2 mt-5 productpart">
                 <div class="col-lg-4 mb-2 mt-5">
                 <div class="card rounded border-0 shadow">
                     <div class="card-body p-2">
@@ -147,18 +147,19 @@ const Services = () => {
                 <div class="card rounded border-0 shadow">
                     <div class="card-body p-2">
                     <img src={Manageditimg} alt="" class="img-fluid mx-auto d-block mb-1 pt-2 pb-2" style={{width: 'auto', height: '100px'}} />
-                        <h5 class="p-2">Managed IT service</h5>
-                        <h6 class="p-1 text-muted"> Customizable solutions for reliable IT environment</h6>
+                        <h5 class="p-2">Salesforce</h5>
+                        <h6 class="p-1 text-muted"> Transforming businesses through Better Analytics, Organization Process Changes and Customizable Solutions.</h6>
                         <p class="lead servicedesc p-2">
-                        Our managed IT services let you focus on your business growth while your IT environment is maintained by a trusted technology partner.
-                        Our offering includes the following services:</p>
+                        One of our core expertise is to enhance, sustain and maintain legacy applications built on the Salesforce platform. 
+                        
+                        </p>
                         
                         { isReadMore5 ?
                         <ul class="list servicedesc lead" style={{textAlign:'left'}}>
-                           <li>IT Support - a broad range of comprehensive software support services.</li>
-                           <li>Managed Cloud Services - cloud implementation combined with continuous support.</li>
-                           <li>Software Rescue Services - application take-on for successful service delivery.</li>
-                           
+                           <li>Based on our client's business needs, the complexity of their internal process and data usage, we modify their Salesforce solution with custom development and UI enhancement tools using both Classic and Lightning Platform.</li>
+                           <li>We add customizations such as Custom objects, Fields and Records in order to make the client’s system reflect data beyond its standard functionality.</li>
+                           <li>We also use bulk triggers to perform multiple record updates, thus enabling bulk data processing for large data sets within the Salesforce solution.</li>
+                           <li>We help enhance UI framework and create custom reports and dashboards beyond standard reporting functionality of Salesforce.</li>
                         </ul>
                         :  <button
                                 class="btn btn-sm rounded-pill mt-3 mb-3 text-dark border" style={{ textDecoration: 'none' , backgroundColor:'white'}}
@@ -169,7 +170,7 @@ const Services = () => {
                     </div>
                 </div>
                 </div>
-                <div class="col-lg-4 mb-2 mt-5">
+                <div class="col-lg-4 mb-2 mt-5 mvppart">
                 <div class="card rounded border-0 shadow">
                     <div class="card-body p-2">
                         <img src={Mvpimg} alt="" class="img-fluid mx-auto d-block mb-1 pt-2 pb-2" style={{width: 'auto', height: '100px'}} />
