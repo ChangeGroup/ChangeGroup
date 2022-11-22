@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.7379edac.css",
-    "main.js": "/static/js/main.2daaec34.js",
+    "main.css": "/static/css/main.63c83438.css",
+    "main.js": "/static/js/main.f90a5991.js",
     "static/js/787.0f5c8ef1.chunk.js": "/static/js/787.0f5c8ef1.chunk.js",
     "static/media/kisspng-european-regional-development-fund-european-union-eu-5ae832777717e0.png": "/static/media/kisspng-european-regional-development-fund-european-union-eu-5ae832777717e0.7794268515251667114878.5279dc78ee694ff065e7.png",
     "static/media/GROUP.png": "/static/media/GROUP.7f513e7d3576415250dd.png",
@@ -15,12 +15,12 @@
     "static/media/mvpimg.svg": "/static/media/mvpimg.555e26f02b9204b24305d261459178a0.svg",
     "static/media/manageditservice.svg": "/static/media/manageditservice.cb4e80f4c55dbcaa4af71e5f2719c8bc.svg",
     "static/media/web-development-img.svg": "/static/media/web-development-img.dddee6e03323a02d273fe8187f8017cf.svg",
-    "main.7379edac.css.map": "/static/css/main.7379edac.css.map",
-    "main.2daaec34.js.map": "/static/js/main.2daaec34.js.map",
+    "main.63c83438.css.map": "/static/css/main.63c83438.css.map",
+    "main.f90a5991.js.map": "/static/js/main.f90a5991.js.map",
     "787.0f5c8ef1.chunk.js.map": "/static/js/787.0f5c8ef1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7379edac.css",
-    "static/js/main.2daaec34.js"
+    "static/css/main.63c83438.css",
+    "static/js/main.f90a5991.js"
   ]
 }
